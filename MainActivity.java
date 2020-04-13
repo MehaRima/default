@@ -1,4 +1,4 @@
-package com.myappcompany.nick.connect3game;
+package com.androidapp.saheli.codingforgame;
 
 import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
